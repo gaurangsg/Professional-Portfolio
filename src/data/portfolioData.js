@@ -20,7 +20,7 @@ export const personalInfo = {
   },
   summary:
     "Software engineer and B.Tech Computer Science graduate with solid skills in Java, Spring Boot, React, and Python. Passionate about building scalable full-stack applications with clean architecture and modern tech stacks.",
-  resumeUrl: "/public/GAURANG SANGLE.pdf",
+  resumeUrl: "/GAURANG SANGLE.pdf",
 };
 
 export const socialLinks = {
