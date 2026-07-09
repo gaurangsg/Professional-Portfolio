@@ -175,11 +175,13 @@ export const contentCreation = {
 
       title : "SHREYA : AI WOMEN'S SAFETY SYSTEM",
       description: "An AI-powered women’s safety platform featuring emergency SOS alerts, real-time live location sharing, trusted guardian notifications, nearby emergency contacts assistance for enhanced women security.",
+       stats: "IN PROGRESS",
       icon : "🙅‍♀️"
     },
     {
       title: "ShopSphere : E commerce Webapp",
       description: "A full-stack e-commerce platform offering secure authentication, product browsing, online payments, order tracking, wishlist management, and a comprehensive admin dashboard.",
+     stats: "PROJECT SOLD", 
       icon: "🛍️"
     },
     {
@@ -197,6 +199,7 @@ export const contentCreation = {
     {
   title: "NIRBHAYA AI : AI LEGAL ASSISTANT",
   description: "A smart legal assistance platform providing accessible legal information, document interpretation, citizen rights guidance, and AI-powered support for those seeking affordable justice.",
+  stats: "PROJECT SOLD",
   stats: "AI PROJECT",
   icon: "⚖️"
 }
