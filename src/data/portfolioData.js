@@ -6,6 +6,7 @@
 import BittyBites from "../assets/about/BittyBites.png";
 import SKillConnect from "../assets/about/SkillConnect.png";
 import SmartTrack from "../assets/about/SmartTrack.png";
+import Resume from "../assets/about/GAURANG SANGLE.pdf";
 
 export const personalInfo = {
   name: "GAURANG SANGLE",
@@ -20,7 +21,7 @@ export const personalInfo = {
   },
   summary:
     "Software engineer and B.Tech Computer Science graduate with solid skills in Java, Spring Boot, React, and Python. Passionate about building scalable full-stack applications with clean architecture and modern tech stacks.",
-  resumeUrl: "/GAURANG SANGLE.pdf",
+  resumeUrl: Resume,
 };
 
 export const socialLinks = {
