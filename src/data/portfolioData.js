@@ -41,7 +41,7 @@ export const heroContent = {
     text: "Contact Me",
     href: "https://wa.me/9096001994?text=Hello%20Gaurang,%20Your%20portfolio%20and%20work%20stood%20out%20to%20us.%20We'd%20like%20to%20discuss%20a%20potential%20collaboration%20and%20explore%20how%20your%20skills%20could%20contribute%20to%20our%20team.%20Please%20let%20us%20know%20a%20convenient%20time%20to%20connect.",
   },
-  ctaResume: { text: "Download Resume", href: "/public/GAURANG SANGLE.pdf" },
+  ctaResume: { text: "Download Resume", href: Resume },
 };
 
 export const aboutContent = {
