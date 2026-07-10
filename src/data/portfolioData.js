@@ -175,7 +175,7 @@ export const contentCreation = {
     {
 
       title : "SHREYA : AI WOMEN'S SAFETY SYSTEM",
-      description: "An AI-powered women’s safety platform featuring emergency SOS alerts, real-time live location sharing, trusted guardian notifications, nearby emergency contacts assistance for enhanced women security.",
+      description: "An AI-powered women’s safety platform featuring emergency SOS alerts, real-time live location sharing, trusted guardian notifications, emergency contacts assistance for enhanced women security.",
        stats: "IN PROGRESS",
       icon : "🙅‍♀️"
     },
@@ -227,12 +227,12 @@ export const leadershipList = [
     role: "Bootcamp Graduate",
     badge: "Innovation"
   },
-  {
-    title: "Event Coordinator & Anchoring – SPANDAN 2K24",
-    description: "Spearheaded event coordination and captivated large audiences as the lead stage anchor, combining confident public speaking with meticulous execution to deliver a seamless summit experience.",
-    role: "Stage Anchor & Coordinator",
-    badge: "ANCHOR"
-  }
+ {
+  title: "Techfest – IIT Bombay",
+  description: "Participated in India's premier science and technology festival, gaining exposure to emerging technologies, innovation, and industry-led technical sessions while engaging with a national community of innovators.",
+  role: "TEAM LEAD",
+  badge: "TECHFEST"
+}
 ];
 
 // Brand New Internships Data
